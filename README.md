@@ -1,5 +1,7 @@
 # Challenge 1
 
+[Deployed Application]()
+
 ### Description
 This challenge was on on-the-job tickets, which means we've begun with starter code that we needed to modify. We've taken the existing code and refactored it to meet a certain set of standards. In this challenge, a marketing agency has hired us to refactor an existing site to make it more accessible.
 
@@ -34,6 +36,8 @@ Follow these steps to see the changes in action:
 + By opening the index.html you'll find yourself at the main entry point for the website. Double-click to open it in your preferred browser.
 + By xxplore the website you can navigate through using different features, such as keyboard navigation, screen readers, and browser tools.
 + By inspecting the code you can dive into the codebase to see the improvements made. Check out the organized CSS, descriptive comments, and other enhancements.
+
+![01-html-css-git-challenge-demo](https://github.com/volfovaklara/bootcamp-challenge-1/assets/139559885/fdeca2c2-ff98-4380-958c-b057c123644d)
 
 ### Credits
 N/A
